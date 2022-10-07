@@ -1,0 +1,1 @@
+# qa_study_python_test
